@@ -63,4 +63,4 @@ This project was built as part of a **Flutter Interview Test Task** to demonstra
 
 For any queries or collaboration, feel free to reach out.
 
-📩 **Submission Email:** evencirhr@gmail.com
+📩 **Submission Email:** kainatbatool009@gmail.com
