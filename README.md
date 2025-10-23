@@ -60,7 +60,3 @@ Each folder is organized to keep UI, logic, and data handling separate, followin
 ## 🧾 About
 
 This project was built as part of a **Flutter Interview Test Task** to demonstrate UI design skills, proper project structuring, and use of state management in Flutter.
-
-For any queries or collaboration, feel free to reach out.
-
-📩 **Submission Email:** kainatbatool009@gmail.com
